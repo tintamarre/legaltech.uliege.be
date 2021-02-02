@@ -112,15 +112,15 @@ params:
     subtitle: Équipe multidisciplinaire
     clients:
     - name: Pierre Delvenne
-      # quote: Don't touch my cochonnet!
+      quote: Membre fondateur
       job: Chercheur qualifié FNRS, Spiral
       img: pd
     - name: Christophe Dubois
-      quote:
+      quote: Directeur
       job: Chargé de cours, CRIS
       img: cd
     - name: Martin Erpicum
-      quote:
+      quote: Chercheur
       job: Chercheur & développeur
       img: me
 
@@ -132,9 +132,9 @@ params:
     socialmediatitle: Suivez-nous
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://gitlab.uliege.be/legaltech-lab
+    - link: https://github.com/tintamarre/corpus/
       # Icons are from Font Awesome
-      icon: gitlab
+      icon: github
     # - link: https://dribbble.com/#
     #   icon: dribbble
     # - link: https://facebook.com/#
@@ -146,15 +146,22 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Product"
+        title: "Products"
         links:
-        - text: Corpus fonctionnalités
+        - text: Corpus
           link: https://corpus.lltl.be
+        - text: Omdat
+          link: https://omdat.openjustice.lltl.be
       column2:
-        title: "Docs"
+        title: "Contribuer"
         links:
         - text: Comment contribuer
-          link: https://gitlab.uliege.be/legaltech-lab/corpus/CONTRIBUTING.md
+          link: https://github.com/tintamarre/corpus/blob/main/CONTRIBUTING.md
+      column3:
+        title: "Documentation"
+        links:
+        - text: Accéder à la documentation
+          link: http://docs.lltl.be/
       # column3:
       #   title: "Blog"
       #   links:
