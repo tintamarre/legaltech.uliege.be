@@ -4,6 +4,18 @@ subtitle: Présentation et travaux réalisés
 comments: false
 ---
 
+Le Liège Legal Tech Lab (LLTL/ULiege) est composés de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
+
+## 1. Développement
+Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
+## 2. Recherche
+Les plateformes, les infrastructures numériques et les projets legaltechs influencent les manières de faire le droit. Nous étudions la conception et la mise en œuvre de ces équipements ainsi que la recomposition des pratiques et des savoirs professionnels auxquels ils donnent lieu.  
+## 3. Accompagnement et intervention
+Nous accompagnement la conception et le développement de projets legaltechs émergents. Nous organisons et contribuons également à des séminaires, webinaires et conférences sur ces thèmes.
+## 4. Projet citoyen et politique
+Nos activités s’inscrivent dans un écosystème où les relations avec les acteurs politiques, institutionnels, professionnels, entrepreneuriaux, académiques et associatifs sont primordiales et où l’ouverture (open science, open source, open government) constitue notre principe directeur.
+
+<!-- 
 Le Liège Legal Tech Lab (LLTL) a été créé en 2020 à l’interface de deux facultés, la Faculté de Droit et la Faculté des Sciences Sociales de l’ULiege. Le LLTL développe des activités de recherche, de développement et d’innovation en lien avec les technologies et le droit au sein de l’ULiege mais aussi dans le champ du droit belge. Le LLTL est actuellement actif sur quatre axes de travail.
 
 ## Un projet de R&D
@@ -24,10 +36,10 @@ Une offre d’accompagnement et de réflexion pour des projets legal tech émerg
 ---
 Ces **quatre axes** concernent des activités de nature différentes (développement, recherche, citoyenneté, accompagnement) qui, toutes, s’articulent autour de quatre thématiques principales :
 
-- 1.	 **La modernisation de la Justice** : il s’agit de comprendre les ressources, les contraintes et les risques que représentent les technologies informatiques et digitales pour la Justice, sur les plans culturels, matériels, organisationnels et institutionnels.
-- 2.	**L’équipement des décisions juridico-judiciaires** : il s’agit d’étudier la manière dont les outils digitaux (algorithmes, IA, robots, plateformes, etc.) équipent les décisions des magistrats, avocats, juristes d’entreprise, assureurs, notaires, etc.
-- 3.	**L’ouverture du droit** : il s’agit d’analyser les mécanismes (marchands, professionnels, juridiques et technologiques) de fermeture et d’ouverture de l’accès à l’information juridique (législation et jurisprudence) tout en favorisant cet accès via nos développements.
-- 4.	**L’hybridation des connaissances et des pratiques des professionnels du droit** : il s’agit d’étudier les influences réciproques des savoirs juridiques et technologiques sur les pratiques des avocats, magistrats, greffiers, huissiers, notaires, juristes d’entreprise, assureurs, etc. Ceci, notamment, afin de questionner les méthodes de formation à ces métiers et, plus particulièrement, aux méthodes de recherche juridique.
+- 1.  **La modernisation de la Justice** : il s’agit de comprendre les ressources, les contraintes et les risques que représentent les technologies informatiques et digitales pour la Justice, sur les plans culturels, matériels, organisationnels et institutionnels.
+- 2. **L’équipement des décisions juridico-judiciaires** : il s’agit d’étudier la manière dont les outils digitaux (algorithmes, IA, robots, plateformes, etc.) équipent les décisions des magistrats, avocats, juristes d’entreprise, assureurs, notaires, etc.
+- 3. **L’ouverture du droit** : il s’agit d’analyser les mécanismes (marchands, professionnels, juridiques et technologiques) de fermeture et d’ouverture de l’accès à l’information juridique (législation et jurisprudence) tout en favorisant cet accès via nos développements.
+- 4. **L’hybridation des connaissances et des pratiques des professionnels du droit** : il s’agit d’étudier les influences réciproques des savoirs juridiques et technologiques sur les pratiques des avocats, magistrats, greffiers, huissiers, notaires, juristes d’entreprise, assureurs, etc. Ceci, notamment, afin de questionner les méthodes de formation à ces métiers et, plus particulièrement, aux méthodes de recherche juridique.
 
 
 
@@ -39,4 +51,4 @@ Ces **quatre axes** concernent des activités de nature différentes (développe
 - DUBOIS C., SCHOENAERS F., (2019a), Le droit à l’épreuve des algorithmes, Droit et société, 103(3) (direction du numéro spécial)
 - DUBOIS C., SCHOENAERS F., (2019b), Les algorithmes dans le droit : illusions et (r)évolutions, Droit et société, 103(3), 503-515.
 - DUBOIS C., MANSVELT V., DELVENNE P., (2019, forthcoming), Entre nécessité et opportunité : la digitalisation de la Justice belge par l’Ordre des avocats, Droit et société, 103(3), 555-572.
-- DUBOIS C. (2018). Law in an algorithmic world: an introduction to Law. AdRem – Tijdschrift van de Orde van Vlaamse Balies, 17(3), 26-33.
+- DUBOIS C. (2018). Law in an algorithmic world: an introduction to Law. AdRem – Tijdschrift van de Orde van Vlaamse Balies, 17(3), 26-33. -->

@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Présentation
     # Where the main hero button links to
-    buttonlink: "/page/presentation"
+    buttonlink: "/page/a-propos"
     # Hero image (from static/images/___)
     image: illustrations/legaltech.png
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -49,80 +49,80 @@ params:
   navbar:
   - title: Accueil
     url: /
-  - title: Présentation
-    url: '/page/presentation'
-  - title: Équipe
-    url: '/page/contact'
-  # - title:
-  #   sublinks:
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  # - title: Log in
-  #   url: /
-  - title: Corpus
-    url: https://corpus.lltl.be
-    button: true
+  - title: À propos
+    url: '/page/a-propos'
+  - title: L'Équipe
+    url: '/page/l-equipe'
+  - title: Actualité
+    sublinks:
+    - title: Crédit d'opportunité
+      url: /blog/credit-opportunite
+    - title: Projet PDR
+      url: /blog/pdr
+  # - title: Corpus
+  #   url: https://corpus.lltl.be
+  #   button: true
   section1:
-    title: Notre vision
-    subtitle:
+    title: Axes de travail
+    subtitle: du Liège Legal Tech Lab (LLTL/ULiege) 
     tiles:
-    - title: Transparence
+    - title: Recherche & Développement
       icon: mouse-globe
-      text: Le LLTL souhaite améliorer la visibilité et l'accessibilité des sources juridiques
+      text: Le LLTL étudie les initiatives legaltechs et en développe. 
       url: /page/vision
-      buttonText: Accessibilité
-    - title: Développement
+      buttonText: R&D
+    - title: Accompagnement
       icon: laptop-cloud
-      text: Le LLTL développe des outils technologiques sous licence libre à destination des professionnelles de l'analyse juridique textuelle
+      text: Le LLTL accompagne la conception de projets émergents.
       url: /page/vision
-      buttonText: OpenSource
-    - title: Numérique
+      buttonText: Interventions
+    - title: Projet citoyen et politique
       icon: plug-cloud
-      text: Le LLTL souhaite apporter une réflexion théorique sur les enjeux de la digitalistaion du Droit
+      text: Le LLTL s'inscrit dans l'écosystème société.
       url: /page/vision
-      buttonText: Réflexion
+      buttonText: Enjeux
   section2:
-    title: Programme de recherche
-    subtitle: Le Liège Legal Tech Lab (LLTL) a été créé en 2020 à l’interface de deux facultés, la Faculté de Droit et la Faculté des Sciences Sociales de l’ULiege. Le LLTL développe des activités de recherche, de développement et d’innovation en lien avec les technologies et le droit au sein de l’ULiege mais aussi dans le champ du droit belge. Le LLTL est actuellement actif sur trois axes de travail.
+    title: Axes de travail
+    subtitle: Le Liège Legal Tech Lab (LLTL/ULiege) est composés de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
     features:
-    - title: Axe 1 - R&D
-      text: Le **premier axe** consiste à poursuivre le **développement** de l’outil déjà produit en étroite collaboration avec les membres de la Faculté de Droit afin d’enrichir réciproquement leurs pratiques de recherches et les performances de l’outil. Deux années à tiers-temps sont nécessaires pour ce faire.
+    - title: Axe 1 - Développement
+      text: Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
       icon: doc-sync
 
-    - title: Axe 2 - Diffusion
-      text: Le **deuxième axe** consiste à poursuivre les discussions déjà nouées avec des organisations externes à l’ULiege (juridictions et avocature) afin de transposer et adapter à leurs demandes et besoins l’outil développé par le LLTL. Deux années à tiers-temps sont nécessaires pour ce faire.
+    - title: Axe 2 - Recherche
+      text: Les plateformes, les infrastructures numériques et les projets legaltechs influencent les manières de faire le droit. Nous étudions la conception et la mise en œuvre de ces équipements ainsi que la recomposition des pratiques et des savoirs professionnels auxquels ils donnent lieu.  
       icon: laptop-globe
 
-    - title: Axe 3 - Information
-      text: Un projet citoyen et politique à travers l’implication de Martin Erpicum et Christophe Dubois dans l’**ASBL openjustice**. Cette plateforme permet d’approfondir nos activités de développement, d’innovation et d’analyse tout en mettant notre expérience au service d’un réseau ouvert et en mouvement.
+    - title: Axe 3 - Accompagnement et intervention
+      text: Nous accompagnement la conception et le développement de projets legaltechs émergents. Nous organisons et contribuons également à des séminaires, webinaires et conférences sur ces thèmes.
       icon: doc-sync
 
-  section3:
-    title: Une application
-    subtitle: Application PoC pour l'analyse des textes juridiques
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Essayez-la!
-    buttonLink: "http://corpus.lltl.be"
-  section4:
-    title: Notre équipe
-    subtitle: Équipe multidisciplinaire
-    clients:
-    - name: Pierre Delvenne
-      quote: Membre fondateur
-      job: Chercheur qualifié FNRS, Spiral
-      img: pd
-    - name: Christophe Dubois
-      quote: Directeur
-      job: Chargé de cours, CRIS
-      img: cd
-    - name: Martin Erpicum
-      quote: Chercheur
-      job: Chercheur & développeur
-      img: me
+    - title: Axe 4 - Projet citoyen et politique
+      text: Nos activités s’inscrivent dans un écosystème où les relations avec les acteurs politiques, institutionnels, professionnels, entrepreneuriaux, académiques et associatifs sont primordiales et où l’ouverture (open science, open source, open government) constitue notre principe directeur.
+      icon: doc-sync
+
+  # section3:
+  #   title: Une application
+  #   subtitle: Application PoC pour l'analyse des textes juridiques
+  #   image: illustrations/mockups/app-mockup.png
+  #   buttonText: Essayez-la!
+  #   buttonLink: "http://corpus.lltl.be"
+  # section4:
+  #   title: Notre équipe
+  #   subtitle: Équipe multidisciplinaire
+  #   clients:
+  #   - name: Pierre Delvenne
+  #     quote: Membre fondateur
+  #     job: Chercheur qualifié FNRS, Spiral
+  #     img: pd
+  #   - name: Christophe Dubois
+  #     quote: Directeur
+  #     job: Chargé de cours, CRIS
+  #     img: cd
+  #   - name: Martin Erpicum
+  #     quote: Chercheur
+  #     job: Chercheur & développeur
+  #     img: me
 
   section5: true
   footer:
@@ -135,6 +135,9 @@ params:
     - link: https://github.com/tintamarre/corpus/
       # Icons are from Font Awesome
       icon: github
+    - link: https://github.com/openjusticebe/omdat
+      # Icons are from Font Awesome
+      icon: github
     # - link: https://dribbble.com/#
     #   icon: dribbble
     # - link: https://facebook.com/#
@@ -145,23 +148,28 @@ params:
     #   icon: bitbucket
     bulmalogo: false
     quicklinks:
+ 
       column1:
-        title: "Products"
+        title: "Contacts"
+        links:
+        - text: L'équipe
+          link: '/page/l-equipe'
+        - text: ULiège
+          link: 'https://uliege.be'
+        - text: Cris
+          link: 'http://labos.ulg.ac.be/cris/'
+      # column2:
+      #   title: "Documentation"
+      #   links:
+      #   - text: Accéder à la documentation
+      #     link: http://docs.lltl.be/
+      column3:
+        title: "Developpements"
         links:
         - text: Corpus
           link: https://corpus.lltl.be
         - text: Omdat
           link: https://omdat.openjustice.lltl.be
-      column2:
-        title: "Contribuer"
-        links:
-        - text: Comment contribuer
-          link: https://github.com/tintamarre/corpus/blob/main/CONTRIBUTING.md
-      column3:
-        title: "Documentation"
-        links:
-        - text: Accéder à la documentation
-          link: http://docs.lltl.be/
       # column3:
       #   title: "Blog"
       #   links:
