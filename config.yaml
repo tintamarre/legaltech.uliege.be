@@ -57,7 +57,7 @@ params:
     sublinks:
     - title: Crédit d'opportunité
       url: /blog/credit-opportunite
-    - title: Projet PDR
+    - title: Projet de recherche
       url: /blog/pdr
   # - title: Corpus
   #   url: https://corpus.lltl.be
@@ -86,7 +86,7 @@ params:
     subtitle: Le Liège Legal Tech Lab (LLTL/ULiege) est composés de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
     features:
     - title: Axe 1 - Développement
-      text: Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
+      text: Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
       icon: doc-sync
 
     - title: Axe 2 - Recherche
