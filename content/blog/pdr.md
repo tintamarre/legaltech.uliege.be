@@ -1,6 +1,6 @@
 ---
-title: Thèse de Lisa Pelssers
-subtitle: Description du projet de Thèse de Lisa Pelssers dans le cadre du financement PDR
+title: Projet de recherche
+subtitle: Description du projet de Thèse de Lisa Pelssers 
 date: 2021-02-09
 tags: ["participatory design", "development"]
 sidebar: true # or false to display the sidebar
