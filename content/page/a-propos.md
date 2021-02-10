@@ -4,7 +4,7 @@ subtitle: Présentation et travaux réalisés
 comments: false
 ---
 
-Le Liège Legal Tech Lab (LLTL/ULiege) est composés de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
+Le Liège Legal Tech Lab (LLTL/ULiege) est composé de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
 
 ## 1. Développement
 Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
@@ -23,9 +23,9 @@ Un projet de R&D vise actuellement à développer un outil ouvert sous licence 
 
 ## Un programme de recherche
 Un programme de recherche a jusqu’ici permis Christophe Dubois et Pierre Delvenne d’étudier trois facettes relatives à la digitalisation du droit.
-- **a.**	la genèse de la plateforme **DPA-deposit** a été étudiée (Dubois, Mansvelt & Delvenne, 2019), de même que les controverses et obstacles relatives à son déploiement (Dubois, 2019).
-- **b.**	**trois projets legaltech** initiés par des avocats belges ont été étudiés, ce qui a notamment permis de considérer l’hybridation des connaissances et des pratiques de ces avocats entrepreneurs, de même que l’influence réciproque entre ces derniers et leur profession (Dubois, 2020).
-- **c.**	**des réflexions théoriques et critiques** concernant le droit algorithmique (Dubois, 2018 ; Dubois & Schoenaers, 2019a et 2019b), l’openjustice (Dubois, Montens & Vandendooren, 2020) et le marché de l’édition juridique (Dubois et al., 2020).
+- **a.** la genèse de la plateforme **DPA-deposit** a été étudiée (Dubois, Mansvelt & Delvenne, 2019), de même que les controverses et obstacles relatives à son déploiement (Dubois, 2019).
+- **b.** **trois projets legaltech** initiés par des avocats belges ont été étudiés, ce qui a notamment permis de considérer l’hybridation des connaissances et des pratiques de ces avocats entrepreneurs, de même que l’influence réciproque entre ces derniers et leur profession (Dubois, 2020).
+- **c.** **des réflexions théoriques et critiques** concernant le droit algorithmique (Dubois, 2018 ; Dubois & Schoenaers, 2019a et 2019b), l’openjustice (Dubois, Montens & Vandendooren, 2020) et le marché de l’édition juridique (Dubois et al., 2020).
 
 ## Un projet citoyen et politique
 Un projet citoyen et politique à travers l’implication de Martin Erpicum et Christophe Dubois dans l’asbl openjustice. Cette plateforme permet d’approfondir nos activités de développement, d’innovation et d’analyse tout en mettant notre expérience au service d’un réseau ouvert et en mouvement.
@@ -41,7 +41,7 @@ Ces **quatre axes** concernent des activités de nature différentes (développe
 - 3. **L’ouverture du droit** : il s’agit d’analyser les mécanismes (marchands, professionnels, juridiques et technologiques) de fermeture et d’ouverture de l’accès à l’information juridique (législation et jurisprudence) tout en favorisant cet accès via nos développements.
 - 4. **L’hybridation des connaissances et des pratiques des professionnels du droit** : il s’agit d’étudier les influences réciproques des savoirs juridiques et technologiques sur les pratiques des avocats, magistrats, greffiers, huissiers, notaires, juristes d’entreprise, assureurs, etc. Ceci, notamment, afin de questionner les méthodes de formation à ces métiers et, plus particulièrement, aux méthodes de recherche juridique.
 
-
+-->
 
 ## Références :
 - DUBOIS C. (in press). How do lawyers engineer and develop legaltech projects? Law, Technology and Humans, 2(2).
@@ -51,4 +51,4 @@ Ces **quatre axes** concernent des activités de nature différentes (développe
 - DUBOIS C., SCHOENAERS F., (2019a), Le droit à l’épreuve des algorithmes, Droit et société, 103(3) (direction du numéro spécial)
 - DUBOIS C., SCHOENAERS F., (2019b), Les algorithmes dans le droit : illusions et (r)évolutions, Droit et société, 103(3), 503-515.
 - DUBOIS C., MANSVELT V., DELVENNE P., (2019, forthcoming), Entre nécessité et opportunité : la digitalisation de la Justice belge par l’Ordre des avocats, Droit et société, 103(3), 555-572.
-- DUBOIS C. (2018). Law in an algorithmic world: an introduction to Law. AdRem – Tijdschrift van de Orde van Vlaamse Balies, 17(3), 26-33. -->
+- DUBOIS C. (2018). Law in an algorithmic world: an introduction to Law. AdRem – Tijdschrift van de Orde van Vlaamse Balies, 17(3), 26-33. 

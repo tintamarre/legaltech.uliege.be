@@ -5,19 +5,20 @@ comments: false
 ---
 
 ### Chercheurs
-- Christophe Dubois (Directeur)
-- Lisa Pelssers (Doctorante)
-- Julie Colemans 
-- Martin Erpicum
-- Pierre Delvenne
-- Fredéric Schoenaers
-- Patrick Wautelet
-- Pieterjan Montens
-- Philippe Dambly
+- [Julie Colemans ](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u182135)
+- [Philippe Dambly](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u228274)
+- [Pierre Delvenne](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u201325)
+- [Christophe Dubois](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u193601)
+- [Martin Erpicum](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u202428)
+- [Pieterjan Montens](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u236704)
+- [Lisa Pelssers](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u235099)
+- [Fredéric Schoenaers](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u176059)
+- [Patrick Wautelet](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u192986)
 
-### Chercheurs associés
+### Membres et chercheurs associés
+- [Bruno Leclercq](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u015356)
+- [Christophe Lejeune](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u182180)
 - Fabienne Kefer
-- Frédéric Wilhemy
 - Amadeo Falcone
 - Geoffrey Deliège
 - Jean Marot
@@ -26,7 +27,7 @@ comments: false
 - Anne-Sophie Vandendooren
 - Antoine Vandenbulk
 
-<!-- - Pierre Moreau -->
+<!-- Pierre Moreau -->
 <!-- Q. Poncelet ? --> 
-<!-- Ch. Lejeune ? -->
+<!-- Christophe Lejeune ? -->
 <!-- Fr. Desseilles ? -->

@@ -26,8 +26,7 @@ Un tel travail de recherche permettra de répondre aux deux questions suivantes 
 1) Comment les dispositifs digitaux contribuent-ils concrètement à redéfinir les pratiques, les savoirs et les interactions des acteurs impliqués dans la fabrication du droit (Latour, 2002) ? 
 2) Comment le réseau sociotechnique qu’ils tissent peut-il faciliter la mise en œuvre d’une banque de données des décisions de Justice prévue pour 2022 (Behrendt & Jousten, 2020) ?
 
-
-
+## Références
 - Behrendt, C., & Jousten, A. (2020). La révision de l'article 149 de la Constitution. Journal des Tribunaux, 139, pp. 2-8.
 - Dubois, C., & Schoenaers, F. (2019). Les algorithmes dans le droit : illusions et (r) évolutions. Droit et société, (3), 501-515.
 - Hubin, J. B. (2019). La publicité de la jurisprudence en version 2.0. RDTI, (74), pp. 55-70.

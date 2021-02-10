@@ -61,32 +61,37 @@ params:
       url: /blog/pdr
   # - title: Corpus
   #   url: https://corpus.lltl.be
-  #   button: true
+    # button: true
   section1:
     title: Axes de travail
     subtitle: du Liège Legal Tech Lab (LLTL/ULiege) 
     tiles:
-    - title: Recherche & Développement
+    - title: Recherche
       icon: mouse-globe
-      text: Le LLTL étudie les initiatives legaltechs et en développe. 
-      url: /page/vision
-      buttonText: R&D
+      text: Le LLTL étudie les initiatives legaltechs. 
+      url: /page/a-propos
+      buttonText: Recherche
+    - title: Développement
+      icon: mobile-feed
+      text: Le LLTL développe. 
+      url: /page/a-propos
+      buttonText: Dev
     - title: Accompagnement
       icon: laptop-cloud
-      text: Le LLTL accompagne la conception de projets émergents.
-      url: /page/vision
+      text: Le LLTL accompagne les projets émergents.
+      url: /page/a-propos
       buttonText: Interventions
     - title: Projet citoyen et politique
       icon: plug-cloud
-      text: Le LLTL s'inscrit dans l'écosystème société.
-      url: /page/vision
+      text: Le LLTL s'inscrit dans un écosystème.
+      url: /page/a-propos
       buttonText: Enjeux
   section2:
     title: Axes de travail
-    subtitle: Le Liège Legal Tech Lab (LLTL/ULiege) est composés de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
+    subtitle: Le Liège Legal Tech Lab (LLTL/ULiege) est composé de chercheurs issus de la Faculté de Droit et de la Faculté des Sciences Sociales. Ses activités de recherche et développement se situent dans le champ des technologies du droit et se déclinent autour de quatre axes de travail.
     features:
     - title: Axe 1 - Développement
-      text: Martin Erpicum a développé un outil sous licence open source dédié́ à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
+      text: Martin Erpicum a développé un outil sous licence open source dédié à l’analyse qualitative et quantitative des textes juridiques (https://corpus.lltl.be). Destiné dans un premier temps aux chercheurs de la Faculté de Droit, une ouverture et une adaptation de l’outil à d’autres publics est envisageable par la suite (Barreaux, juridictions, administrations, services juridiques, etc.).
       icon: doc-sync
 
     - title: Axe 2 - Recherche
@@ -107,22 +112,20 @@ params:
   #   image: illustrations/mockups/app-mockup.png
   #   buttonText: Essayez-la!
   #   buttonLink: "http://corpus.lltl.be"
-  # section4:
-  #   title: Notre équipe
-  #   subtitle: Équipe multidisciplinaire
-  #   clients:
-  #   - name: Pierre Delvenne
-  #     quote: Membre fondateur
-  #     job: Chercheur qualifié FNRS, Spiral
-  #     img: pd
-  #   - name: Christophe Dubois
-  #     quote: Directeur
-  #     job: Chargé de cours, CRIS
-  #     img: cd
-  #   - name: Martin Erpicum
-  #     quote: Chercheur
-  #     job: Chercheur & développeur
-  #     img: me
+  section4:
+    title: Contacts
+    subtitle: Liège LegalTech Lab
+    clients:
+    - name: Directeur 
+      quote: Christophe Dubois
+      url: https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u193601
+      job: Chargé de cours, CRIS
+      img: cd
+    - name: Chercheur
+      quote: Martin Erpicum
+      url: https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u202428
+      job: Chercheur, CRIS
+      img: me
 
   section5: true
   footer:
